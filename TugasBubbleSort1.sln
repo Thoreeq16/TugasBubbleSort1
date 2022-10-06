@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TugasBubbleSort1", "TugasBubbleSort1\TugasBubbleSort1.csproj", "{B461AC91-CEAE-4EA4-867E-554CF8DB5DBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B461AC91-CEAE-4EA4-867E-554CF8DB5DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B461AC91-CEAE-4EA4-867E-554CF8DB5DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B461AC91-CEAE-4EA4-867E-554CF8DB5DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B461AC91-CEAE-4EA4-867E-554CF8DB5DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C36FD8C-CEC7-43CD-A5E3-50CC779C5AA9}
+	EndGlobalSection
+EndGlobal
